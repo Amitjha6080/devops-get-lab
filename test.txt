@@ -1,1 +1,2 @@
 This is test.txt for Git lab.
+New update: version 2
